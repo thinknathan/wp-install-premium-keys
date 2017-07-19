@@ -1,6 +1,6 @@
 {
   "name": "thinknathan/wp-install-premium-keys",
-  "type": "mu-wordpress-plugin",
+  "type": "wordpress-muplugin",
   "require": {
     "composer/installers": ">=1.0.6"
   }
