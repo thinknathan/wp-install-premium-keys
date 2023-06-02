@@ -6,7 +6,7 @@ Description:  Sets keys for premium WP plugins.
 Version:      1.0.4
 Author:       Think_Nathan
 Author URI:   https://thinknathan.ca/
-License:      MIT License
+License:      GPL-2.0 license or any newer version
 */
 
 // Gravity Forms
